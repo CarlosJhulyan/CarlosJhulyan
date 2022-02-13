@@ -3,7 +3,7 @@ Hi there, thanks for stopping by, this is **Carlos Jhulyan**.
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const charles = {
+const Jhulyan = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "frontend js dev"],
     technologies: {
