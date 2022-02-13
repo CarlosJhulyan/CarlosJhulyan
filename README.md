@@ -34,8 +34,6 @@ const charles = {
    <img src="https://komarev.com/ghpvc/?username=CarlosJhulyan">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/CarlosJhulyan/FigureBed/master/img/readme-bottom.png)
-
 ---
 
 ⭐️ From [@CarlosJhulyan](https://github.com/CarlosJhulyan)
