@@ -5,21 +5,21 @@ Hi there, thanks for stopping by, this is **Carlos Jhulyan**.
 ```javascript
 const Jhulyan = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "frontend js dev"],
+    askMeAbout: ["junior", "fullstack web developer", "js dev"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Angular"],
-            css: ["Bootstrap", "SASS", "Tailwind"],
-            html: ["HTML 5", "pug"]
+            js: ["React.js", "Angular", "Next.js"],
+            css: ["Bootstrap", "Tailwind", "Ant Design", "SASS", "LESS"],
+            html: ["pug", "EJS"]
         },
         backEnd: {
-            php: "laravel",
-            js: "Node.js",
-            c#: ".NET Core"
+            php: ["Laravel"],
+            js: ["Node.js"],
+            csharp: [".NET Core"]
         },
         databases: {
-            sql: ["MySQL", "SQL Server"],
-            nosql: "MongoDB"
+            sql: ["MySQL", "SQL Server", "Oracle"],
+            nosql: ["MongoDB", "Cassandra"]
         },
     }
 };
